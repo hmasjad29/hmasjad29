@@ -7,7 +7,7 @@ Front-End developer, AI&Ml
 I am currently pursuing my bachelor's, I started as a web developer and now exploring the fields of AI,ML and Data Science.
 
 * 🌍  I'm based in Hyderabad, Telangana.
-* 🖥️  See my portfolio at [just a basic portfolio, will be updating it😜](http://https://portfolio-asjad-md.netlify.app/)
+* 🖥️  See my portfolio at [just a basic portfolio, will be updating it😜](https://portfolio-asjad-md.netlify.app/)
 * ✉️  You can contact me at [hmasjad29@gmail.com](mailto:hmasjad29@gmail.com)
 * 🚀  I'm currently working on [A&S-PinkSalt](https://as-pinksalt.netlify.app/)
 * 🧠  I'm learning ReactJs, Dsa(with python), and AI,ML.
